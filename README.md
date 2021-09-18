@@ -7,6 +7,7 @@
 * Natural Language Processing 
 * Healthcare AI
 * Robotics
+* Data Analytics
 
 #### You can also find me on- 
 
