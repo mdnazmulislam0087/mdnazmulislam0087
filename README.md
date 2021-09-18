@@ -1,6 +1,15 @@
 ### Hi there Nice to see meet you.👋
 
-<h1 align="center">I amm Nazmul</h1>
+<h1 align="center">I am Nazmul</h1>
+
+### I have experience and interest in -
+* Computer vision 
+* Natural Language Processing 
+* Medical AI
+* Robotics
+
+
+
 
 <!--
 **mdnazmulislam0087/mdnazmulislam0087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
