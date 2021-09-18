@@ -5,7 +5,7 @@
 ### I have experience and interest in -
 * Computer vision 
 * Natural Language Processing 
-* Medical AI
+* Healthcare AI
 * Robotics
 
 
