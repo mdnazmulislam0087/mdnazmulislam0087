@@ -8,6 +8,23 @@
 * Healthcare AI
 * Robotics
 
+#### You can also find me on- 
+
+[<img align="left" alt="c17hawke | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="c17hawke | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="c17hawke | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+
+
+<br>
+
+<hr>
+
+[linkedin]: https://www.linkedin.com/in/nazmul87/
+[twitter]: https://twitter.com/nazmul0087
+[Instagram]: https://www.instagram.com/nazmul87/
+
+
+
 
 
 
