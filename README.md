@@ -1,4 +1,4 @@
-### Hi there Nice to see meet you.👋
+### Hi there Nice to meet you.👋
 
 <h1 align="center">I am Nazmul</h1>
 
