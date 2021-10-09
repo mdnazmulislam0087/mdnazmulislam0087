@@ -1,7 +1,8 @@
 ### Hi there Nice to meet you.👋
 
 <h1 align="center">I am Nazmul</h1>
-I have significant expertise as a Customer Service Engineer - CSE ( technically-oriented service ). As a partner in the service delivery and customer management process, I am taking ownership of technical account management delivery and service reporting.
+I have significant expertise as a Customer Service Engineer - CSE ( technically-oriented service ). I am experienced with installation, preventive maintenance, diagnosis and maintenance of Philips CT scan and PET CT scan machine. I am certified Hugo robotic Engineer. 
+
 Besides, I am an Artificial Intelligence enthusiast. I have skills on python, NumPy, pandas, scikit-learn, TensorFlow, and Keras. Passionate on statistical analysis, deep learning and it’s implementation in Medical field. I love to explore deep learning in computer vision and sequence learning.
 
 ### I have experience and interest in -
