@@ -38,9 +38,10 @@ Besides, I am an artificial intelligence enthusiast. I have skills in Python, Nu
 
 #### You can also find me on- 
 
-[<img align="left" alt="c17hawke | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="c17hawke | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="c17hawke | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+[<img align="left" alt="mdnazmulislam0087| LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="mdnazmulislam0087 | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="mdnazmulislam0087 | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+
 
 
 <br>
@@ -53,7 +54,7 @@ Besides, I am an artificial intelligence enthusiast. I have skills in Python, Nu
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnazmulislam0087&label=Profile%20views&color=0e75b6&style=flat" alt="mdnazmulislam0087" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnazmulislam0087&show_icons=true&locale=en&layout=compact" alt="bhanu0925" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnazmulislam0087&show_icons=true&locale=en&layout=compact" alt="mdnazmulislam0087" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnazmulislam0087&show_icons=true&locale=en" alt="mdnazmulislam0087" /></p>
 
