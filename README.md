@@ -1,7 +1,9 @@
 ### Hi there Nice to meet you.👋
 
 <h1 align="center">I am Nazmul</h1>
-I have significant expertise as a Customer Service Engineer (CSE) ( technically-oriented service ). I am experienced with installation, preventive maintenance, diagnosis, and repair of Philips CT Scan and PET CT Scan machines. I am a certified Hugo robotic engineer and am currently working with Medtronic and am responsible for installation, preventive maintenance, diagnosis, repair, and update of the Hugo surgical robotic machine.
+Hy There, I am currently studying Phd in Kent State University.
+
+I had significant expertise as a Customer Service Engineer (CSE) ( technically-oriented service ). I am experienced with installation, preventive maintenance, diagnosis, and repair of Philips CT Scan and PET CT Scan machines. I am a certified Hugo robotic engineer and am currently working with Medtronic and am responsible for installation, preventive maintenance, diagnosis, repair, and update of the Hugo surgical robotic machine.
 
 Besides, I am an artificial intelligence enthusiast. I have skills in Python, NumPy, Pandas, Scikit-learn, TensorFlow, and Keras. I am passionate about statistical analysis, deep learning, and its implementation in the medical field. I love to explore deep learning in computer vision and sequence learning.
 
